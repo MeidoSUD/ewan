@@ -1,0 +1,275 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "sidebar": {
+    "menu": "Menu",
+    "admin": "Admin",
+    "dashboard": "Dashboard",
+    "courses": "Courses",
+    "coursesTeaching": "Courses (Teaching)",
+    "bookings": "Bookings",
+    "payments": "Payments",
+    "reviews": "Reviews",
+    "sessions": "Sessions",
+    "users": "Users",
+    "disputes": "Disputes",
+    "settings": "Settings"
+  },
+  "roles": {
+    "student": "Student",
+    "teacher": "Teacher",
+    "admin": "Admin"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "role": "Role",
+    "loading": "Please wait...",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "phone": "Phone",
+    "nationality": "Nationality",
+    "confirm_password": "Confirm Password",
+    "login": {
+      "title": "Welcome back",
+      "submit": "Login",
+      "forgot": "Forgot password?",
+      "signup": "Create an account"
+    },
+    "signup": {
+      "title": "Create your account",
+      "submit": "Sign Up",
+      "login": "Have an account? Login"
+    },
+    "forgot": {
+      "title": "Reset your password",
+      "submit": "Send reset link",
+      "sent": "If that email exists, a reset link has been sent."
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Connect. Learn.",
+      "titleHighlight": "Excel.",
+      "subtitle": "Your gateway to personalized learning with expert tutors from around the world.",
+      "getStarted": "Get Started Today",
+      "exploreServices": "Explore Services"
+    },
+    "howItWorks": {
+      "title": "How EduConnect Works",
+      "subtitle": "Simple steps to start your learning journey with qualified tutors",
+      "findMatch": {
+        "title": "Find Perfect Match",
+        "description": "Connect with qualified teachers who match your learning style and goals."
+      },
+      "bookLessons": {
+        "title": "Book Lessons",
+        "description": "Easy scheduling system to book lessons at your convenient time."
+      },
+      "securePayments": {
+        "title": "Secure Payments",
+        "description": "Safe and secure payment processing with multiple payment options."
+      },
+      "onlineClasses": {
+        "title": "Online Classes",
+        "description": "Attend classes from anywhere with our integrated video platform."
+      }
+    },
+    "stats": {
+      "activeStudents": "Active Students",
+      "expertTeachers": "Expert Teachers",
+      "subjectsAvailable": "Subjects Available",
+      "successRate": "Success Rate"
+    },
+    "cta": {
+      "title": "Ready to Start Your Learning Journey?",
+      "subtitle": "Join thousands of students who have transformed their education with EduConnect",
+      "signUp": "Sign Up Now",
+      "contactUs": "Contact Us"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive learning solutions designed to help you succeed",
+    "core": {
+      "title": "Core Services",
+      "studentBooking": {
+        "title": "Student Booking System",
+        "description": "Easy-to-use booking system that lets students find and schedule lessons with their preferred tutors instantly."
+      },
+      "teacherProfiles": {
+        "title": "Detailed Teacher Profiles",
+        "description": "Comprehensive profiles showcasing teacher expertise, experience, ratings, and teaching methodologies."
+      },
+      "walletPayment": {
+        "title": "Secure Wallet & Payments",
+        "description": "Integrated wallet system with multiple payment options for seamless and secure transactions."
+      },
+      "videoClasses": {
+        "title": "HD Video Classes",
+        "description": "High-quality video conferencing platform optimized for online learning and teaching."
+      }
+    },
+    "additional": {
+      "title": "Additional Benefits",
+      "progressTracking": {
+        "title": "Progress Tracking",
+        "description": "Monitor your learning journey with detailed analytics and progress reports."
+      },
+      "projectSupport": {
+        "title": "Project Support",
+        "description": "Get help with assignments, projects, and homework from expert tutors."
+      },
+      "gamification": {
+        "title": "Gamified Learning",
+        "description": "Earn badges, points, and achievements to make learning more engaging and fun."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Round-the-clock customer support to help you with any questions or issues."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Transforming Education Through Technology",
+      "subtitle": "We're on a mission to make quality education accessible to everyone, everywhere."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To democratize education by connecting passionate learners with expert educators through innovative technology, breaking down geographical and economic barriers to quality learning."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "A world where every person has access to personalized, high-quality education that empowers them to achieve their full potential and contribute meaningfully to society."
+    },
+    "values": {
+      "title": "Our Values",
+      "excellence": {
+        "title": "Excellence",
+        "description": "We maintain the highest standards in education delivery and platform performance."
+      },
+      "accessibility": {
+        "title": "Accessibility",
+        "description": "Education should be available to everyone, regardless of location or background."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We continuously evolve our platform using cutting-edge technology."
+      },
+      "community": {
+        "title": "Community",
+        "description": "Building strong connections between learners and educators worldwide."
+      }
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "subtitle": "Passionate educators and technologists working together to revolutionize learning",
+      "sarah": {
+        "name": "Sarah Johnson",
+        "role": "CEO & Co-Founder",
+        "description": "Former educator with 15+ years in EdTech, passionate about making learning accessible."
+      },
+      "david": {
+        "name": "David Chen",
+        "role": "CTO & Co-Founder",
+        "description": "Tech innovator specializing in scalable platforms and user experience design."
+      },
+      "emma": {
+        "name": "Emma Rodriguez",
+        "role": "Head of Education",
+        "description": "Curriculum expert ensuring quality standards and educational best practices."
+      }
+    },
+    "trust": {
+      "title": "Why Trust EduConnect?",
+      "verifiedTutors": {
+        "title": "Verified Tutors",
+        "description": "All our educators undergo rigorous background checks and qualification verification."
+      },
+      "securePayments": {
+        "title": "Secure Payments",
+        "description": "Your financial information is protected with bank-level security measures."
+      },
+      "qualityAssurance": {
+        "title": "Quality Assurance",
+        "description": "Regular monitoring and feedback systems ensure consistent high-quality education."
+      },
+      "support": {
+        "title": "Dedicated Support",
+        "description": "Our support team is always ready to help with any questions or concerns."
+      }
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "message": "Message",
+      "messagePlaceholder": "Tell us how we can help you...",
+      "submit": "Send Message"
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": "123 Education Street, Learning City, LC 12345",
+      "email": "info@educonnect.com",
+      "phone": "+1 (555) 123-4567",
+      "hours": "Monday - Friday: 9:00 AM - 6:00 PM"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": {
+        "question": "How do I find the right tutor?",
+        "answer": "Use our advanced search filters to find tutors based on subject, experience level, rating, and availability. You can also read reviews from other students."
+      },
+      "q2": {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept all major credit cards, PayPal, and bank transfers. All payments are processed securely through our encrypted payment system."
+      },
+      "q3": {
+        "question": "Can I get a refund if I'm not satisfied?",
+        "answer": "Yes, we offer a satisfaction guarantee. If you're not happy with your lesson, contact us within 24 hours for a full refund."
+      },
+      "q4": {
+        "question": "How do online classes work?",
+        "answer": "Classes are conducted through our integrated video platform. You'll receive a link to join your session, and all you need is a stable internet connection and a device with a camera."
+      }
+    }
+  },
+  "pages": {
+    "dashboard": { "title": "Dashboard", "subtitle": "Overview of platform metrics and admin controls." },
+    "courses": { "title": "Courses", "subtitle": "Browse and manage courses." },
+    "bookings": { "title": "Bookings", "subtitle": "View and manage lesson bookings." },
+    "payments": { "title": "Payments", "subtitle": "Review and manage payments." },
+    "reviews": { "title": "Reviews", "subtitle": "Read and respond to reviews." },
+    "sessions": { "title": "Sessions", "subtitle": "Manage your live sessions." },
+    "users": { "title": "Users", "subtitle": "Manage platform users." },
+    "disputes": { "title": "Disputes", "subtitle": "Handle disputes and refunds." },
+    "profile": { "title": "Profile", "subtitle": "View and edit your profile." },
+    "settings": { "title": "Settings", "subtitle": "Update your account settings." }
+  },
+  "footer": {
+    "description": "EduConnect - Connecting students with expert tutors worldwide for personalized learning experiences.",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "copyright": "© 2024 EduConnect. All rights reserved."
+  }
+}

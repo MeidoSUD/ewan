@@ -1,0 +1,58 @@
+{
+  "auth": {
+    "login": {
+      "title": "Welcome back",
+      "submit": "Login",
+      "forgot": "Forgot password?",
+      "signup": "Create an account"
+    },
+    "signup": {
+      "title": "Create your account",
+      "submit": "Sign Up",
+      "login": "Have an account? Login"
+    },
+    "forgot": {
+      "title": "Reset your password",
+      "submit": "Send reset link",
+      "sent": "If that email exists, a reset link has been sent."
+    },
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email": "Email",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "phone": "Phone",
+    "nationality": "Nationality",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "loading": "Loading..."
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "courses": "Courses",
+    "lessons": "Lessons",
+    "orders": "Orders",
+    "timetable": "Timetable",
+    "transactions": "Transactions",
+    "reviews": "Reviews",
+    "disputes": "Disputes",
+    "settings": "Settings",
+    "my_courses": "My Courses",
+    "my_lessons": "My Lessons",
+    "private_lessons": "Private Lessons",
+    "make_order": "Make Order",
+    "language_study": "Language Study",
+    "abilities": "Abilities & Achievement",
+    "books": "Books",
+    "logout": "Logout"
+  },
+  "settings": {
+    "edit_profile": "Edit Profile",
+    "type_of_lessons": "Type of Lessons",
+    "revenue_management": "Revenue Management",
+    "payment_method": "Payment Method",
+    "courses_management": "Courses Management"
+  }
+}

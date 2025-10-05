@@ -1,0 +1,58 @@
+{
+  "auth": {
+    "login": {
+      "title": "مرحباً بعودتك",
+      "submit": "تسجيل الدخول",
+      "forgot": "هل نسيت كلمة المرور؟",
+      "signup": "إنشاء حساب"
+    },
+    "signup": {
+      "title": "إنشاء حساب",
+      "submit": "تسجيل",
+      "login": "لديك حساب؟ سجّل الدخول"
+    },
+    "forgot": {
+      "title": "إعادة تعيين كلمة المرور",
+      "submit": "إرسال رابط التعيين",
+      "sent": "إذا كان البريد موجوداً لدينا، فقد أرسلنا رابط إعادة التعيين."
+    },
+    "first_name": "الاسم الأول",
+    "last_name": "اسم العائلة",
+    "email": "البريد الإلكتروني",
+    "gender": "النوع",
+    "male": "ذكر",
+    "female": "أنثى",
+    "other": "آخر",
+    "phone": "الهاتف",
+    "nationality": "الجنسية",
+    "password": "كلمة المرور",
+    "confirm_password": "تأكيد كلمة المرور",
+    "loading": "جارٍ التحميل..."
+  },
+  "menu": {
+    "dashboard": "لوحة التحكم",
+    "courses": "الدورات",
+    "lessons": "الدروس",
+    "orders": "الطلبات",
+    "timetable": "الجدول",
+    "transactions": "المعاملات",
+    "reviews": "التقييمات",
+    "disputes": "النزاعات",
+    "settings": "الإعدادات",
+    "my_courses": "دوراتي",
+    "my_lessons": "دروسي",
+    "private_lessons": "دروس خصوصية",
+    "make_order": "إنشاء طلب",
+    "language_study": "دراسة اللغة",
+    "abilities": "القدرات والإنجازات",
+    "books": "كتب",
+    "logout": "تسجيل الخروج"
+  },
+  "settings": {
+    "edit_profile": "تعديل الملف الشخصي",
+    "type_of_lessons": "نوع الدروس",
+    "revenue_management": "إدارة الإيرادات",
+    "payment_method": "طريقة الدفع",
+    "courses_management": "إدارة الدورات"
+  }
+}
